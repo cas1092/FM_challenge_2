@@ -27,20 +27,19 @@ img{
     max-width:100%;
     align-content:center;
     
+    
 }
 
-.container{
-    background-color:var(--White);
-    border-radius:20px;
+.container {
+    background-color: var(--White);
+    border-radius: 20px;
     box-shadow: 8px 8px black;
     border: 1px solid white;
-    padding:1rem;
-    max-width:368px;
-    padding-block:1rem;
+    padding: 1rem;
+    max-width: 368px;
+    padding-block: 1rem;
     margin: 1rem 0;
-    
-    
-    
+    border: 1px solid black;
 }
 
 .content {
